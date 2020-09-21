@@ -19,7 +19,7 @@ My name is Soundarya. I am Computer Science Engineer. I am interested in data dr
 
 I am born and brought up in Belgaum. 
 
-# Connect with me on 
+#### Connect with me on 
 [![LinkedIn][1.2]][1], [![Instagram][2.2]][2].
 
 <!-- Icons -->
