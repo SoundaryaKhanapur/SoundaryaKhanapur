@@ -14,3 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+My name is Soundarya. I am Computer Science Engineer. I am interested in data driven technologies and desiging. I probably spend my leisure time doing some physical activities or building/exploring software programes.
+
+I am born and brought up in Belgaum. 
+
+- 📫 How to reach me: ...[LinkedIn](htpps:linkedin.com/in/soundarya-khanapur/)
+[(https://i.stack.imgur.com/gVE0j.png)]()
+[Instagram](//instagram.com/smk.codes/)
+
+
+
