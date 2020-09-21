@@ -23,7 +23,7 @@ I am born and brought up in Belgaum.
 [LinkedIn](htpps:linkedin.com/in/soundarya-khanapur/)
 [(https://i.stack.imgur.com/gVE0j.png)]()
 
-[Instagram](//instagram.com/smk.codes/)
+- 📫 How to reach me: ...[Instagram](//instagram.com/smk.codes/)
 
 
 
