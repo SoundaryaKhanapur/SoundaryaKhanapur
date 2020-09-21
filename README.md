@@ -18,6 +18,10 @@ Here are some ideas to get you started:
 My name is Soundarya. I am Computer Science Engineer. I am interested in data driven technologies and desiging. I probably spend my leisure time doing some physical activities or building/exploring software programes.
 I am born and brought up in Belgaum. 
 
+- 🔭 I’m currently working on ...https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png
+
+- 🌱 I’m currently learning ...https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png
+
 #### Connect with me on 
 [![LinkedIn][1.2]][1], [![Instagram][2.2]][2].
 
