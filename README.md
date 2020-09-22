@@ -1,3 +1,5 @@
+![SMKCODES](https://github.com/SoundaryaKhanapur/SoundaryaKhanapur/blob/master/IMG_20.jpg)
+
 ### Hi there 👋
 
 <!--
