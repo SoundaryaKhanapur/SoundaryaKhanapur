@@ -1,10 +1,9 @@
-![SMKCODES](https://github.com/SoundaryaKhanapur/SoundaryaKhanapur/blob/master/IMG_20.jpg)
-
 ### Hi there 👋
 
 <!--
 **SoundaryaKhanapur/SoundaryaKhanapur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+![SMKCODES](https://github.com/SoundaryaKhanapur/SoundaryaKhanapur/blob/master/IMG_20.jpg)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
