@@ -19,13 +19,8 @@ My name is Soundarya. I am Computer Science Engineer. I am interested in data dr
 I am born and brought up in Belgaum. 
 
 #### Connect with me on 
-[![LinkedIn][1.2]][1], [![Instagram][2.2]][2].
+<p align="center">
+  <a href="https://linkedin.com/in/soundarya-khanapur/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedIn" alt="LinkedIn"></a>
+  <a href="https://www.instagram.com/smk.codes/"><img src="https://img.shields.io/badge/Instagram--_.svg?style=social&logo=instagram" alt="Instagram"></a>
+</p>
 
-<!-- Icons -->
-
-[1.2]: <img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/[LinkedIn].svg" />
-[2.2]: <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/[Instagram].svg" />
-
-<!-- Links -->
-[1]: https://www.linkedin.com/in/soundarya-khanapur/  
-[2]: https://www.instagram.com/smk.codes/
