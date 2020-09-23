@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 My name is Soundarya. I am interested in data driven technologies and desiging. I probably spend my leisure time doing some physical activities or building/exploring software programes.
 
-##### I’m currently learning ...<p align="left">
+##### I’m currently learning ...<p align="center">
  <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png">
  <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png">
   </p>
