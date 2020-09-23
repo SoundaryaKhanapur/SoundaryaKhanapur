@@ -16,8 +16,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is Soundarya. I am Computer Science Engineer. I am interested in data driven technologies and desiging. I probably spend my leisure time doing some physical activities or building/exploring software programes.
-I am born and brought up in Belgaum. 
+My name is Soundarya. I am interested in data driven technologies and desiging. I probably spend my leisure time doing some physical activities or building/exploring software programes.
+
+🌱 I’m currently learning ...Flutter <p align="center">
+ <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png">
+  </p>
 
 #### Connect with me on 
 <p align="center">
