@@ -28,5 +28,6 @@ My name is Soundarya. I am interested in data driven technologies and desiging. 
 <p align="center">
   <a href="https://linkedin.com/in/soundarya-khanapur/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedIn" alt="LinkedIn"></a>
   <a href="https://www.instagram.com/smk.codes/"><img src="https://img.shields.io/badge/Instagram--_.svg?style=social&logo=instagram" alt="Instagram"></a>
+  <a href="https://www.hackerrank.com/k_soundarya"><img src="https://img.shields.io/badge/HackerRank--_.svg?style=social&logo=HackerRank" alt="HackerRank"></a>
 </p>
 
