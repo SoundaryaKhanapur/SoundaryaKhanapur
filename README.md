@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is Soundarya. I am interested in data driven technologies and desiging. I probably spend my leisure time doing some physical activities or building/exploring software programs.
+My name is Soundarya. I am a Computer Science Engineer. I am passionate about data-driven technologies and enjoy designing. I probably spend my leisure time doing some physical activities or building/exploring software programs.
 
 
 
