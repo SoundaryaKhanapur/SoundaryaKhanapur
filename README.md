@@ -30,5 +30,6 @@ My name is Soundarya. I am a Computer Science Engineer. I am passionate about da
   <a href="https://linkedin.com/in/soundarya-khanapur/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedIn" alt="LinkedIn"></a>
   <a href="https://www.instagram.com/smk.codes/"><img src="https://img.shields.io/badge/Instagram--_.svg?style=social&logo=instagram" alt="Instagram"></a>
   <a href="https://twitter.com/smk_codes"><img src="https://img.shields.io/badge/Twitter--_.svg?style=social&logo=twitter" alt="Twitter"></a>
+  <a href="https://www.youtube.com/channel/UC7opD0zJrLppPXo3-6tDF5w"><img src="https://img.shields.io/badge/YouTube--_.svg?style=social&logo=youtube" alt="YouTube"></a>
 </p>
 
